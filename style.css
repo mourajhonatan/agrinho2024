@@ -17,7 +17,7 @@ body {
     body {
         font-family: Arial, sans-serif;
         line-height: 1.6;
-        background-color: #f4f4f4;
+        background-color: #ff0000;
     }
     
     .container {
@@ -28,8 +28,8 @@ body {
     }
     
     header {
-        background-color: #333;
-        color: #fff;
+        background-color: #ffffff;
+        color: #ff0000;
         padding: 10px 0;
     }
     
@@ -50,7 +50,7 @@ body {
     }
     
     nav ul li a {
-        color: #fff;
+        color: #ff0000;
         text-decoration: none;
         font-size: 1.2em;
     }
@@ -61,7 +61,7 @@ body {
     
     section {
         padding: 40px 0;
-        background-color: #fff;
+        background-color: #ff0000;
         text-align: center;
     }
     
@@ -72,7 +72,7 @@ body {
     
     section p {
         font-size: 1.2em;
-        color: #555;
+        color: #ffffff;
     }
     
     ul {
@@ -81,8 +81,8 @@ body {
     }
     
     footer {
-        background-color: #333;
-        color: #fff;
+        background-color: #ffffff;
+        color: #ff0000;
         text-align: center;
         padding: 10px 0;
         position: fixed;
@@ -104,19 +104,21 @@ body {
         display: block;
         margin-bottom: 8px;
         font-size: 1.2em;
-        color: #333;
+        color: #ffffff;
     }
     
     form input, form textarea {
         width: 100%;
-        padding: 10px;
+        padding: 10px;Claro! Vamos criar um site básico usando HTML e CSS. Abaixo você encontrará um exemplo simples com uma estrutura básica de página e estilos CSS para estilizar o site.
+
+
         margin-bottom: 20px;
         font-size: 1em;
     }
     
     form button {
-        background-color: #333;
-        color: #fff;
+        background-color: #fff7f7;
+        color: #ff0000;
         border: none;
         padding: 10px 20px;
         font-size: 1.2em;
@@ -124,7 +126,7 @@ body {
     }
     
     form button:hover {
-        background-color: #555;
+        background-color: #ffffff;
     }
     
     background-color: #f4f4f4;
@@ -138,8 +140,8 @@ body {
 }
 
 header {
-    background-color: #333;
-    color: #fff;
+    background-color: #ffffff;
+    color: #ff0000;
     padding: 10px 0;
 }
 
@@ -160,7 +162,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #fff;
+    color: #ff0000;
     text-decoration: none;
     font-size: 1.2em;
 }
@@ -171,7 +173,7 @@ nav ul li a:hover {
 
 section {
     padding: 40px 0;
-    background-color: #fff;
+    background-color: #ff0000;
     text-align: center;
 }
 
@@ -182,7 +184,7 @@ section h2 {
 
 section p {
     font-size: 1.2em;
-    color: #555;
+    color: #fcfcfc;
 }
 
 ul {
@@ -191,8 +193,8 @@ ul {
 }
 
 footer {
-    background-color: #333;
-    color: #fff;
+    background-color: #ffffff;
+    color: #ff0000;
     text-align: center;
     padding: 10px 0;
     position: fixed;
@@ -214,7 +216,7 @@ form label {
     display: block;
     margin-bottom: 8px;
     font-size: 1.2em;
-    color: #333;
+    color: #ffffff;
 }
 
 form input, form textarea {
@@ -225,8 +227,8 @@ form input, form textarea {
 }
 
 form button {
-    background-color: #333;
-    color: #fff;
+    background-color: #ffffff;
+    color: #ff0000;
     border: none;
     padding: 10px 20px;
     font-size: 1.2em;
@@ -234,6 +236,6 @@ form button {
 }
 
 form button:hover {
-    background-color: #555;
+    background-color: #ffffff;
 }
 
